@@ -9,19 +9,19 @@ html, body {
 }
 
 .pimg1 {
-    background-image: url(images/landscape1.jpg);
+    background-image: url(landscape1.jpg);
     min-height: 100%;
 }
 .pimg2 {
-    background-image: url(images/landscapenature.webp);
+    background-image: url(landscapenature.webp);
     min-height: 400px;
 }
 .pimg3 {
-    background-image: url(images/landscapewaterfall.jpg);
+    background-image: url(landscapewaterfall.jpg);
     min-height: 400px;
 }
 .pimg4 {
-    background-image: url(images/Landscape_P.webp);
+    background-image: url(Landscape_P.webp);
     min-height: 600px;
 }
 
